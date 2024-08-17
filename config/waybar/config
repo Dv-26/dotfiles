@@ -131,9 +131,9 @@
   "pulseaudio": {
     "format": "{icon} <b>{volume}</b>",
     "format-bluetooth": " {volume}",
-    "format-bluetooth-muted": " ",
+    "format-bluetooth-muted": "󰝟 ",
     "tooltip": false,
-    "format-muted": "",
+    "format-muted": "󰝟",
     "format-icons": {
       "default": ["󰝟", "", "󰕾" , ""]
     },
@@ -149,7 +149,7 @@
     },
     "format": " {icon} {capacity}%",
     "format-charging": "󰂄 {capacity}%",
-    "format-icons": ["", "", "", "", "", "", "", "", "", ""],
+    "format-icons": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󱟢"],
     "max-length": 25,
     "tooltip": false
   },
