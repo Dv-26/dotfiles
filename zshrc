@@ -108,5 +108,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias vi=vim
+alias xterm=kitty
 alias conf="cd ~/.config"
 
